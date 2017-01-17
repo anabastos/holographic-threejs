@@ -38,5 +38,16 @@ Projetar hologramas de objetos com texturas estéticas com o Three.js pelo celul
 
 <img src="/imgs/prisma.jpg" width="350">
 
-####Recomendo brincar de holograma 3d escutando seu album vaporwave favorito. Eu recomendo esse aqui:
-https://youtu.be/Qr-0bJ89gFs
+####Recomendo brincar de holograma 3d escutando seu album vaporwave favorito. Aqui estão algumas recomendações:
+<https://youtu.be/Qr-0bJ89gFs> - Yung Bae / Skyscraper Anonymous
+
+<https://youtu.be/YcsYSJwewWk> - Macintosh Plus / Floral Shoppe
+
+<https://youtu.be/3r2zleGxv7w> - SAINT PEPSI / Hit Vibes 
+
+<https://youtu.be/8oBbJg_PqbU> - Blank Banshee / Blank Banshee 0
+
+<https://youtu.be/F9L4q-0Pi4E> - ２８１４ - 新しい日の誕生 / Birth of a New Day
+
+
+
