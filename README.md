@@ -3,6 +3,7 @@
 <img src="/imgs/prisma.jpg" width="350">
 
 [ Vídeo do funcionamento ](https://www.instagram.com/p/BPVgw70FEFW/)
+[ GERADOR ](http://anabastos.github.io/holographic-threejs)
 
 #Objetivo
 Projetar hologramas de objetos com texturas estéticas com o Three.js pelo celular, usando um prisma de acrílico transparente.
