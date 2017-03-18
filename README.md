@@ -7,14 +7,14 @@
 
 [ GERADOR ](http://anabastos.github.io/holographic-threejs)
 
-#Objetivo
+# Objetivo
 Projetar hologramas de objetos com texturas estéticas com o Three.js pelo celular, usando um prisma de acrílico transparente.
 
-##Como fazer o prisma para projetar hologramas 3D?
+## Como fazer o prisma para projetar hologramas 3D?
 
 <img src="/imgs/materiais.jpg" width="350">
 
-##Materiais necessários:
+## Materiais necessários:
 * 1 Capinha transparente de CD
 * 1 Estilete *(Confie em mim, não funciona com tesoura)*
 * Fita crepe ou durex
@@ -24,7 +24,7 @@ Projetar hologramas de objetos com texturas estéticas com o Three.js pelo celul
 * Régua
 * Lixa *(para um melhor resultado)*
 
-##Passo a passo:
+## Passo a passo:
 1. Desenhe no papel quadriculado um retangulo com um lado de 6cm e outro de 1cm, tendo um comprimento de 3,5cm.
 2. Coloque a capinha do CD sobre o desenho no papel e com a canetinha traçe o formato do seu retangulo.
 
@@ -41,7 +41,7 @@ Projetar hologramas de objetos com texturas estéticas com o Three.js pelo celul
 
 <img src="/imgs/prisma.jpg" width="350">
 
-####Recomendo brincar de holograma 3d escutando seu album vaporwave favorito. Aqui estão algumas recomendações:
+#### Recomendo brincar de holograma 3d escutando seu album vaporwave favorito. Aqui estão algumas recomendações:
 <https://youtu.be/Qr-0bJ89gFs> - Yung Bae / Skyscraper Anonymous
 
 <https://youtu.be/YcsYSJwewWk> - Macintosh Plus / Floral Shoppe
