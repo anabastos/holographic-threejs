@@ -1,11 +1,10 @@
 # :crystal_ball: :globe_with_meridians: Holographic Three.js :globe_with_meridians: :crystal_ball:
 
+### [ GERADOR ](http://anabastos.github.io/holographic-threejs)
+
 <img src="/imgs/prisma.jpg" width="350">
 
 [ Vídeo do funcionamento ](https://www.instagram.com/p/BPVgw70FEFW/)
-
-
-[ GERADOR ](http://anabastos.github.io/holographic-threejs)
 
 # Objetivo
 Projetar hologramas de objetos com texturas estéticas com o Three.js pelo celular, usando um prisma de acrílico transparente.
@@ -25,7 +24,7 @@ Projetar hologramas de objetos com texturas estéticas com o Three.js pelo celul
 * Lixa *(para um melhor resultado)*
 
 ## Passo a passo:
-1. Desenhe no papel quadriculado um retangulo com um lado de 6cm e outro de 1cm, tendo um comprimento de 3,5cm.
+1. Desenhe no papel quadriculado um retangulo com um lado de 6cm e lado oposto de 1cm, tendo uma altura de 3,5cm.
 2. Coloque a capinha do CD sobre o desenho no papel e com a canetinha traçe o formato do seu retangulo.
 
 <img src="/imgs/cortando.jpg" width="350">
@@ -42,15 +41,23 @@ Projetar hologramas de objetos com texturas estéticas com o Three.js pelo celul
 <img src="/imgs/prisma.jpg" width="350">
 
 #### Recomendo brincar de holograma 3d escutando seu album vaporwave favorito. Aqui estão algumas recomendações:
-<https://youtu.be/Qr-0bJ89gFs> - Yung Bae / Skyscraper Anonymous
+[Yung Bae / Skyscraper Anonymous](https://youtu.be/Qr-0bJ89gFs)
 
-<https://youtu.be/YcsYSJwewWk> - Macintosh Plus / Floral Shoppe
+[Macintosh Plus / Floral Shoppe](https://youtu.be/YcsYSJwewWk)
 
-<https://youtu.be/3r2zleGxv7w> - SAINT PEPSI / Hit Vibes 
+[SAINT PEPSI / Hit Vibes](https://youtu.be/3r2zleGxv7w)
 
-<https://youtu.be/8oBbJg_PqbU> - Blank Banshee / Blank Banshee 0
+[Blank Banshee / Blank Banshee 0](https://youtu.be/8oBbJg_PqbU)
 
-<https://youtu.be/F9L4q-0Pi4E> - ２８１４ - 新しい日の誕生 / Birth of a New Day
+[２８１４ - 新しい日の誕生 / Birth of a New Day](https://youtu.be/F9L4q-0Pi4E)
+
+### Alguns videos do youtube legais pra usar no seu prisma
+
+[Fogos de artificios](https://youtu.be/XaGhAYseIFg)
+
+[Trippy](https://youtu.be/-ilRi8Xel9Y)
+
+[Plasma](https://youtu.be/ASX_d0H0HYw)
 
 
 
